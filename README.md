@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssfc
-- 👀 I’m interested in artificial intelligence and combinatorial optimization.
+- 👀 I’m interested in multi-agent path finding.
 - 🌱 I’m currently doing research on multi-agent path finding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
